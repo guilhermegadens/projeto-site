@@ -8,6 +8,10 @@ body{
 
 }
 
+img.lado {
+    float: right;
+}
+
 main{
     background-color: aqua;
     width: 500px;
